@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi there, my name is Landen! 👋
+-  💼 I am a Full-Stack Developer
+-  ⭐ My specialty is React
+-  🌳 I am currently learning Python and Swift
+-  💪 I enjoy new challenges that bring me growth
+-  ⚡ Fun Fact: I love Boxing
 <!--
 **lwalker107/lwalker107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
