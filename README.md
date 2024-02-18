@@ -1,6 +1,6 @@
 ### Hi there, my name is Landen! 👋
 -  💼 I am a Full-Stack Developer
--  ⭐ My specialty is React
+-  ⭐ My specialty is React and FrontEnd Development
 -  🌳 I am currently learning Python and Swift
 -  💪 I enjoy new challenges that bring me growth
 -  ⚡ Fun Fact: I love Boxing
